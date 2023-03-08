@@ -2,7 +2,7 @@
 
 This one is pretty simple, so I started with it.
 
-Compiled with `cl /O2 /nologo challenge_55.c`
+Compiled with `cl /O2 /nologo challenge_55.c`.  I did it on MSCV first to see how it was, but it'd still be very easy through GCC.
 
 The resulting exe was then opened in radare2 with `r2 -w challenge_55.exe`
 
